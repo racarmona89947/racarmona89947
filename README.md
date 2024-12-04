@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul Alejandro Carmona Cuellar</h1>
-<h3 align="center">Systems and Telecommunication Engineering Student - Oracle One Student - English Student</h3>
+<h3 align="center">Systems and Telecommunication Engineering Student - Oracle One - AlumniOne - English Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racarmona89947&label=Profile%20views&color=0e75b6&style=flat" alt="racarmona89947" /> </p>
 
