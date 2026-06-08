@@ -108,13 +108,3 @@ https://linkedin.com/in/raul-alejandro-carmona-cuellar
 https://github.com/racarmona89947
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=racarmona89947&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racarmona89947&layout=compact&theme=tokyonight" />
-</p>
