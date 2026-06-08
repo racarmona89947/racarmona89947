@@ -101,9 +101,6 @@ Git • Linux • Postman • Docker • Trello • Slack
 
 📧 Email: **racarmona09@gmail.com**
 
-🌐 Portfolio:
-https://data-science-raul.netlify.app/
-
 💼 LinkedIn:
 https://linkedin.com/in/raul-alejandro-carmona-cuellar
 
