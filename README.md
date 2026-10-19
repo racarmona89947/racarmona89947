@@ -1,314 +1,301 @@
-<h1 align="center">Hi 👋, I'm Raul Alejandro Carmona Cuellar</h1>
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=racarmona89947&label=Visitas%20al%20perfil&color=3178C6&style=flat" alt="Contador de visitas al perfil"/>
+</p>
 
-<h3 align="center">
-Systems and Telecommunications Engineer | Full Stack Developer | Python & Odoo Developer
-</h3>
+<h1 align="center">👋 ¡Hola! Soy Raúl Alejandro Carmona Cuéllar</h1>
+
+<h3 align="center">Ingeniero de Sistemas y Telecomunicaciones | Desarrollador de Software</h3>
 
 <p align="center">
-React · TypeScript · Python · Odoo · PostgreSQL · Firebase
+  <a href="https://co.linkedin.com/in/raul-alejandro-carmona-cuellar">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:racarmona09@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/>
+  </a>
+  <a href="https://github.com/racarmona89947">
+    <img src="https://img.shields.io/badge/GitHub-Mis%20repositorios-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-Software developer focused on building business applications, automating processes,
-and developing scalable enterprise solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=3178C6&center=true&vCenter=true&width=750&lines=Desarrollo+de+software+empresarial;Python+%7C+Odoo+%7C+PostgreSQL;React+%7C+TypeScript+%7C+APIs+REST;Automatizaci%C3%B3n+de+procesos+de+negocio" alt="Especialidades de desarrollo"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=racarmona89947&label=Profile%20Views&color=0e75b6&style=flat" alt="racarmona89947" />
+  📍 Manizales, Caldas, Colombia · 💻 Desarrollo de software · ⚙️ Automatización empresarial
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Sobre mí
 
-I'm a Systems and Telecommunications Engineer with professional experience in software development, business process automation, and enterprise solutions.
+Soy **Ingeniero de Sistemas y Telecomunicaciones**, con experiencia profesional en desarrollo de software, personalización de sistemas ERP y automatización de procesos empresariales.
 
-My main professional strength is **backend development with Python and Odoo**, where I have worked on the development and customization of ERP modules, business logic, process automation, integrations, and PostgreSQL databases.
+He trabajado en el desarrollo de módulos con **Python y Odoo**, la implementación de lógica de negocio, la optimización de procesos administrativos y contables, el mantenimiento de aplicaciones y la integración de soluciones empresariales.
 
-I also have Full Stack development training from **Henry**, with experience building modern web applications using **React, TypeScript, JavaScript, REST APIs, Firebase, and Vercel**.
+Complemento esta experiencia con formación Full Stack y proyectos web desarrollados con **React, TypeScript, JavaScript, APIs REST y Firebase**.
 
-I'm particularly interested in developing software that solves real business problems through automation, well-structured applications, and reliable data management.
+Me interesa crear soluciones de software que respondan a necesidades reales, optimicen procesos y faciliten la gestión de la información.
 
-### What I work with
+### 🎯 Áreas de especialización
 
-* 🐍 Backend development with Python
-* ⚙️ Odoo ERP development and customization
-* ⚛️ Frontend development with React and TypeScript
-* 🔌 REST API integration and consumption
-* 🗄️ PostgreSQL, MySQL and Firebase Firestore
-* 🔐 Firebase Authentication
-* ☁️ Cloud services and application deployment
-* 🧪 Unit and component testing
-* 🔄 Git and GitHub workflows
-* 🏢 Enterprise software and business process automation
+- 🐍 **Python y Odoo:** desarrollo y personalización de aplicaciones empresariales.
+- ⚙️ **Automatización:** procesos administrativos, contables y operativos.
+- 🗄️ **Bases de datos:** PostgreSQL, MySQL y Cloud Firestore.
+- ⚛️ **Frontend:** React, TypeScript, JavaScript e interfaces responsive.
+- 🔌 **Integración:** consumo de APIs REST y comunicación entre aplicaciones.
+- 🧪 **Pruebas de software:** Vitest y React Testing Library.
+- ☁️ **Despliegue:** Vercel, Railway y servicios de Firebase.
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Proyectos destacados
 
-### Software Development Engineer — Odooxpert S.A.S
+Aquí encontrarás proyectos colaborativos, aplicaciones web y soluciones empresariales en las que he participado.
 
-**December 2025 – April 2026**
-
-* Development and customization of Odoo modules for different business areas.
-* Automation and optimization of business processes through ERP solutions.
-* Analysis of functional and technical requirements.
-* Implementation of new functionalities according to business needs.
-* Troubleshooting and resolution of technical and functional issues.
-* Maintenance and continuous improvement of enterprise applications.
-
-### Software Development Engineer — Ailumex S.A.S
-
-**November 2024 – July 2025**
-
-* Development and customization of Odoo modules.
-* Automation and optimization of administrative and accounting processes.
-* Analysis, testing, and maintenance of application functionalities.
-* Integration and adaptation of ERP functionality to improve internal processes.
-* Technical support and resolution of incidents related to Odoo, applications, and servers.
-
-### Maintenance Technician — Confiamos S.A.S
-
-**July 2025 – October 2025**
-
-* Installation, configuration, and maintenance of servers and technological equipment.
-* Hardware and software troubleshooting.
-* On-site and remote technical support.
-* Preventive and corrective maintenance of technological infrastructure.
-
----
-
-## 🏆 Featured Projects
-
-### 💧 Water Utility Management System
-
-Enterprise Odoo solution for managing water utility operations.
-
-**Main functionalities:**
-
-* Customer subscriptions
-* Consumption configuration
-* Macro-meter readings
-* Route management
-* Billing cycles
-* Operational control
-* Status management
-
-**My contribution:**
-
-Designed and developed the business logic, data structures, billing processes, and operational workflows using **Python and advanced Odoo customization**.
-
----
-
-### 📧 Electronic Invoice Automation
-
-Automated solution for receiving and processing electronic invoices through email.
-
-**Main functionalities:**
-
-* Automatic email processing
-* XML invoice extraction
-* Invoice information processing
-* Integration with Odoo
-* Invoice status management
-* Automated business workflows
-
-**My contribution:**
-
-Developed the integration for automatic email reading, XML data extraction, and electronic invoice management within Odoo.
-
----
-
-### 📊 Enterprise Accounting Module
-
-Development of accounting functionality focused on automating financial processes.
-
-**Main functionalities:**
-
-* Accounting business rules
-* Financial validations
-* Automated workflows
-* Structured financial data management
-* Process optimization
-
-**My contribution:**
-
-Implemented accounting logic, validations, and data structures designed to improve enterprise financial management.
-
----
-
-### 🎓 Academic Management & CRM
-
-Odoo-based solution for managing academic processes and commercial operations for an English academy.
-
-**Main functionalities:**
-
-* Student management
-* Academic processes
-* CRUD operations
-* Academic workflows
-* CRM functionality
-* Commercial management
-
-**My contribution:**
-
-Participated in the development of complete CRUD functionality, customization of academic processes, and implementation of CRM and commercial features within Odoo.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 NexPay — Billetera digital multimoneda</h3>
+      <p>Aplicación colaborativa para gestionar saldos en diferentes monedas, consultar movimientos y realizar operaciones de intercambio.</p>
+      <p><strong>Mi aporte:</strong> integración frontend-backend, sesión, navegación, rutas y diseño responsive.</p>
+      <p><strong>Tecnologías:</strong> React, TypeScript, Vite, API REST y PostgreSQL.</p>
+      <p>
+        <a href="https://nexpay-front.vercel.app/">🌐 Demo</a> ·
+        <a href="https://github.com/nexpayft76/nexpay-front">💻 Frontend</a> ·
+        <a href="https://github.com/nexpayft76/nexpay-back">Backend del equipo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 NexoMarket — Marketplace de tecnología</h3>
+      <p>Aplicación web de comercio electrónico con funcionalidades de exploración de productos e integración de servicios para gestionar datos y usuarios.</p>
+      <p><strong>Mi aporte:</strong> desarrollo de interfaces, funcionalidades web e integración de servicios.</p>
+      <p><strong>Tecnologías:</strong> React, TypeScript, Firebase, Vercel y AWS S3.</p>
+      <p>
+        <a href="https://proyecto-m5-raul-alejandro-carmona-cuellar.vercel.app/">🌐 Demo</a> ·
+        <a href="https://github.com/racarmona89947/ProyectoM5_RaulAlejandroCarmonaCuellar">💻 Repositorio</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ Gestor Estratégico de Tareas</h3>
+      <p>Aplicación de productividad con autenticación, operaciones CRUD, filtros, prioridades, vencimientos, organización mediante arrastrar y soltar y envío de resúmenes por correo.</p>
+      <p><strong>Tecnologías:</strong> React, TypeScript, Firebase, Vercel Functions, AWS SES y Vitest.</p>
+      <p>
+        <a href="https://proyecto-m4-raul-alejandro-carmona-cuellar.vercel.app/">🌐 Demo</a> ·
+        <a href="https://github.com/racarmona89947/ProyectoM4_RaulAlejandroCarmonaCuellar">💻 Repositorio</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Sistema de gestión de acueducto</h3>
+      <p>Solución empresarial en Odoo para gestionar suscripciones, consumos, macromediciones, rutas, ciclos de facturación y estados operativos.</p>
+      <p><strong>Enfoque:</strong> lógica de negocio, automatización de procesos y gestión de información.</p>
+      <p><strong>Tecnologías:</strong> Python, Odoo y PostgreSQL.</p>
+      <p><em>Desarrollo realizado en el contexto de experiencia profesional.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📧 Automatización de facturación electrónica</h3>
+      <p>Solución para recibir y procesar facturas electrónicas a partir de correos, extraer información de archivos XML y gestionar sus estados en Odoo.</p>
+      <p><strong>Enfoque:</strong> integración de información, automatización y seguimiento de documentos.</p>
+      <p><strong>Tecnologías:</strong> Python, Odoo, XML y procesos de integración.</p>
+      <p><em>Desarrollo realizado en el contexto de experiencia profesional.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Módulo contable empresarial</h3>
+      <p>Personalización de funcionalidades contables para implementar reglas de negocio, validaciones y automatización de procesos financieros.</p>
+      <p><strong>Enfoque:</strong> lógica contable, consistencia de datos y optimización de operaciones.</p>
+      <p><strong>Tecnologías:</strong> Python, Odoo, PostgreSQL y SQL.</p>
+      <p><em>Desarrollo realizado en el contexto de experiencia profesional.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Sistema académico y CRM empresarial</h3>
+      <p>Solución en Odoo para una academia de inglés, orientada a la gestión académica, los registros de estudiantes y los procesos comerciales.</p>
+      <p><strong>Enfoque:</strong> operaciones CRUD, flujos académicos y gestión de relaciones con clientes.</p>
+      <p><strong>Tecnologías:</strong> Python, Odoo y PostgreSQL.</p>
+      <p><em>Desarrollo realizado en el contexto de experiencia profesional.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Simpsons Chat</h3>
+      <p>Aplicación web conversacional que permite interactuar con personajes de Los Simpson mediante integración con un servicio de inteligencia artificial.</p>
+      <p><strong>Enfoque:</strong> interacción dinámica, consumo de API y experiencia de usuario.</p>
+      <p><strong>Tecnologías:</strong> JavaScript, HTML, CSS, API de IA y funciones serverless.</p>
+      <p>
+        <a href="https://proyecto-m3-raul-alejandro-carmona-cuellar.vercel.app/">🌐 Demo</a> ·
+        <a href="https://github.com/racarmona89947/ProyectoM3_RaulAlejandroCarmonaCuellar">💻 Repositorio</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Colorfly Studio</h3>
+      <p>Herramienta web para generar paletas de colores, bloquear colores seleccionados, copiar códigos HEX y conservar preferencias en el navegador.</p>
+      <p><strong>Enfoque:</strong> manipulación del DOM, interacción y almacenamiento local.</p>
+      <p><strong>Tecnologías:</strong> JavaScript, HTML, CSS y localStorage.</p>
+      <p>
+        <a href="https://racarmona89947.github.io/ProyectoM1_RaulAlejandroCarmonaCuellar/">🌐 Demo</a> ·
+        <a href="https://github.com/racarmona89947/ProyectoM1_RaulAlejandroCarmonaCuellar">💻 Repositorio</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Más sobre mi trabajo</h3>
+      <p>Explora mis repositorios para conocer el código, las implementaciones, las pruebas y la evolución de mis proyectos.</p>
+      <p>
+        <a href="https://github.com/racarmona89947?tab=repositories">📂 Explorar todos mis repositorios</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education
+## 💼 Experiencia profesional
 
-### 🎓 Systems and Telecommunications Engineering
+### Ingeniero de Desarrollo — AILUMEX S.A.S.
+**Diciembre de 2025 – abril de 2026**
 
-**Universidad de Manizales**
-2020 – 2025
+- Desarrollar y personalizar módulos de Odoo según los requerimientos empresariales.
+- Automatizar procesos administrativos y contables.
+- Ejecutar pruebas, mantenimiento y mejoras de funcionalidades.
+- Integrar soluciones y adaptar funcionalidades del ERP.
+- Atender incidencias relacionadas con aplicaciones, Odoo y servidores.
 
-### 📡 Technologist in Design, Implementation and Maintenance of Telecommunications Systems
+### Técnico de Mantenimiento — CONFIAMOS S.A.S.
+**Julio de 2025 – octubre de 2025**
 
-**Servicio Nacional de Aprendizaje — SENA**
-2018 – 2020
+- Instalar, configurar y mantener servidores y equipos tecnológicos.
+- Diagnosticar y resolver problemas de hardware y software.
+- Brindar soporte técnico remoto y presencial.
+- Ejecutar mantenimiento preventivo y correctivo de infraestructura.
 
----
+### Ingeniero de Desarrollo — ODOOXPERT S.A.S.
+**Noviembre de 2024 – julio de 2025**
 
-## 📚 Additional Training
-
-### 💻 Full Stack Developer
-
-**Henry · 2026**
-
-Training focused on modern Full Stack web development, including:
-
-* React
-* TypeScript
-* JavaScript
-* SPA architecture
-* REST APIs
-* Firebase Authentication
-* Cloud Firestore
-* Vercel
-* AWS services
-* Testing with Vitest and React Testing Library
-
-### 🐍 Oracle Next Education F2 T5 — Backend
-
-**Alura Latam & Oracle · 2023**
-
-### 🌐 Misión TIC 2022 — Web Application Development
-
-**Universidad de Caldas & MinTIC · 2022**
+- Desarrollar y personalizar módulos empresariales en Odoo.
+- Automatizar procesos mediante funcionalidades ERP.
+- Analizar requerimientos técnicos y funcionales.
+- Implementar mejoras y resolver incidencias de aplicaciones.
+- Configurar y mantener soluciones empresariales.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y herramientas
 
-### Languages
+### Lenguajes de programación
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Backend & ERP
+### Backend y ERP
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="APIs REST"/>
 </p>
 
-### Databases
+### Bases de datos
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
 </p>
 
-### Cloud, Services & Deployment
+### Cloud, despliegue y calidad
 
 <p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library"/>
 </p>
 
-### Testing
+### Herramientas
 
 <p>
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 ---
 
-## 🌱 Currently Improving
+## 🎓 Formación académica
 
-I'm continuously strengthening my skills in:
+- **Ingeniería en Sistemas y Telecomunicaciones** — Universidad de Manizales | 2020–2025.
+- **Tecnólogo en Diseño, Implementación y Mantenimiento de Sistemas de Telecomunicaciones** — SENA | 2018–2020.
 
-* 🏗️ Software Architecture
-* ⚛️ Advanced React and TypeScript
-* 🐍 Advanced Python Development
-* ⚙️ Odoo Enterprise Development
-* ☁️ Cloud Computing
-* 🧪 Software Testing
-* 🔐 Application Security
-* 🚀 Deployment and CI/CD practices
-* 🇬🇧 English Communication
+### Formación complementaria
+
+- **Desarrollador Full Stack** — Henry | 2026.
+- **Oracle Next Education F2 T5 — Backend** — Alura Latam y Oracle | 2023.
+- **Misión TIC 2022 — Desarrollo de aplicaciones web** — Universidad de Caldas y MinTIC | 2022.
 
 ---
 
-## 🎯 Professional Focus
+## 🌱 Aprendizaje continuo
 
-I'm interested in opportunities as:
+Actualmente sigo fortaleciendo mis conocimientos en:
 
-* **Backend Developer**
-* **Full Stack Developer**
-* **Python Developer**
-* **Odoo Developer**
-* **Software Developer**
-
-My strongest areas are **Python, Odoo, backend development, enterprise software, business process automation, and PostgreSQL**, complemented by my Full Stack training and experience with **React and TypeScript**.
-
----
-
-## 📫 Contact
-
-📧 **Email:** [racarmona09@gmail.com](mailto:racarmona09@gmail.com)
-
-💼 **LinkedIn:**
-https://co.linkedin.com/in/raul-alejandro-carmona-cuellar
-
-🐙 **GitHub:**
-https://github.com/racarmona89947
-
-📍 **Location:** Manizales, Caldas, Colombia
+- 🏗️ Arquitectura y buenas prácticas de software.
+- 🐍 Python y desarrollo de aplicaciones empresariales.
+- ⚛️ React y TypeScript.
+- 🔐 Seguridad y autenticación de aplicaciones.
+- 🧪 Pruebas automatizadas y calidad del software.
+- ☁️ Servicios cloud, despliegue y CI/CD.
+- 🇬🇧 Inglés — nivel A2, en formación.
 
 ---
 
-## ⚡ Fun Fact
+## 🎯 Objetivo profesional
 
-I enjoy turning complex business processes into practical software solutions through automation, ERP development, and modern web technologies.
+Busco oportunidades en desarrollo de software donde pueda aportar mi experiencia en aplicaciones empresariales, automatización y desarrollo web.
+
+**Roles de interés:**
+
+- Ingeniero de Desarrollo de Software.
+- Desarrollador Python.
+- Desarrollador Odoo.
+- Desarrollador Backend.
+- Desarrollador Full Stack.
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:racarmona09@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-racarmona09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
+  </a>
+  <a href="https://co.linkedin.com/in/raul-alejandro-carmona-cuellar">
+    <img src="https://img.shields.io/badge/LinkedIn-Visitar_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Me gusta transformar necesidades reales en soluciones de software útiles, mantenibles y orientadas a resultados.</i>
+</p>
